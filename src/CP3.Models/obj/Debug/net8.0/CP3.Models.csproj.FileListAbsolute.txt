@@ -1,0 +1,11 @@
+C:\Users\ander\Downloads\CP3-main\src\CP3.Models\bin\Debug\net8.0\CP3.Models.deps.json
+C:\Users\ander\Downloads\CP3-main\src\CP3.Models\bin\Debug\net8.0\CP3.Models.dll
+C:\Users\ander\Downloads\CP3-main\src\CP3.Models\bin\Debug\net8.0\CP3.Models.pdb
+C:\Users\ander\Downloads\CP3-main\src\CP3.Models\obj\Debug\net8.0\CP3.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Downloads\CP3-main\src\CP3.Models\obj\Debug\net8.0\CP3.Models.AssemblyInfoInputs.cache
+C:\Users\ander\Downloads\CP3-main\src\CP3.Models\obj\Debug\net8.0\CP3.Models.AssemblyInfo.cs
+C:\Users\ander\Downloads\CP3-main\src\CP3.Models\obj\Debug\net8.0\CP3.Models.csproj.CoreCompileInputs.cache
+C:\Users\ander\Downloads\CP3-main\src\CP3.Models\obj\Debug\net8.0\CP3.Models.dll
+C:\Users\ander\Downloads\CP3-main\src\CP3.Models\obj\Debug\net8.0\refint\CP3.Models.dll
+C:\Users\ander\Downloads\CP3-main\src\CP3.Models\obj\Debug\net8.0\CP3.Models.pdb
+C:\Users\ander\Downloads\CP3-main\src\CP3.Models\obj\Debug\net8.0\ref\CP3.Models.dll

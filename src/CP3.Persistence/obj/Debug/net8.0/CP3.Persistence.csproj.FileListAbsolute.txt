@@ -1,0 +1,15 @@
+C:\Users\ander\Downloads\CP3-main\src\CP3.Persistence\bin\Debug\net8.0\CP3.Persistence.deps.json
+C:\Users\ander\Downloads\CP3-main\src\CP3.Persistence\bin\Debug\net8.0\CP3.Persistence.dll
+C:\Users\ander\Downloads\CP3-main\src\CP3.Persistence\bin\Debug\net8.0\CP3.Persistence.pdb
+C:\Users\ander\Downloads\CP3-main\src\CP3.Persistence\bin\Debug\net8.0\CP3.Models.dll
+C:\Users\ander\Downloads\CP3-main\src\CP3.Persistence\bin\Debug\net8.0\CP3.Models.pdb
+C:\Users\ander\Downloads\CP3-main\src\CP3.Persistence\obj\Debug\net8.0\CP3.Persistence.csproj.AssemblyReference.cache
+C:\Users\ander\Downloads\CP3-main\src\CP3.Persistence\obj\Debug\net8.0\CP3.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Downloads\CP3-main\src\CP3.Persistence\obj\Debug\net8.0\CP3.Persistence.AssemblyInfoInputs.cache
+C:\Users\ander\Downloads\CP3-main\src\CP3.Persistence\obj\Debug\net8.0\CP3.Persistence.AssemblyInfo.cs
+C:\Users\ander\Downloads\CP3-main\src\CP3.Persistence\obj\Debug\net8.0\CP3.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ander\Downloads\CP3-main\src\CP3.Persistence\obj\Debug\net8.0\CP3.Pers.33EF483F.Up2Date
+C:\Users\ander\Downloads\CP3-main\src\CP3.Persistence\obj\Debug\net8.0\CP3.Persistence.dll
+C:\Users\ander\Downloads\CP3-main\src\CP3.Persistence\obj\Debug\net8.0\refint\CP3.Persistence.dll
+C:\Users\ander\Downloads\CP3-main\src\CP3.Persistence\obj\Debug\net8.0\CP3.Persistence.pdb
+C:\Users\ander\Downloads\CP3-main\src\CP3.Persistence\obj\Debug\net8.0\ref\CP3.Persistence.dll
