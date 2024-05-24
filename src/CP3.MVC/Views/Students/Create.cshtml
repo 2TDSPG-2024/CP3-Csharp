@@ -1,0 +1,104 @@
+﻿@model CP3.Models.Student
+
+@{
+    ViewData["Title"] = "2TDS";
+}
+
+<div class="form-body">
+    <div class="row">
+        <div class="form-holder">
+            <div class="form-content">
+                <div class="form-items">
+                    <h3 style="text-align:center">CheckPoint 3 - Advanced Business Development with .NET</h3>
+                    <br />
+                    <h3 style="text-align:center">Faça o seu cadastro - 2TDS</h3>
+                    <form class="requires-validation" novalidate asp-action="Create">
+
+                        <div class="col-md-12">
+                            <div class="form-group" style="padding-top:10px">
+                                <label asp-for="Name" class="control-label" required>Informe seu nome</label>
+                                <input asp-for="Name" class="form-control" style="margin-top: 0px !important"/>
+                                <span asp-validation-for="Name" class="text-danger"></span>
+                            </div>                   
+                        </div>
+
+                        <div class="col-md-12">
+                            <div class="form-group" style="padding-top:10px">
+                                <label asp-for="Email" class="control-label">Informe seu email</label>
+                                <input asp-for="Email" class="form-control" style="margin-top: 0px !important" />
+                                <span asp-validation-for="Email" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="col-md-12">
+                            <div class="form-group" style="padding-top:10px">
+                                <label asp-for="Identification" class="control-label">Informe seu RM</label>
+                                <input asp-for="Identification" class="form-control" style="margin-top: 0px !important" />
+                                <span asp-validation-for="Identification" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="col-md-12">
+                            <div class="form-group" style="padding-top:10px">
+                                <label asp-for="StudentClassId" class="control-label">Selecione sua turma</label>
+                                <select asp-for="StudentClassId" class="form-select" style="margin-top: 0px !important" asp-items="ViewBag.StudentClassId"></select>
+                            </div>
+                        </div>
+
+
+                        <div style="display:flex" class="col-md mt-3">
+                            <div class="mt-4" style="padding:10px">
+                                <input type="submit" value="Cadastrar" class="btn btn-primary" />
+                            </div>
+
+                            <div class="mt-4" style="padding:10px">
+                                <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Cancelar</a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@* <div class="container mt-4">
+    <h1 class="mb-3">Create Student</h1>
+    <div class="row">
+        <div class="col-lg-8">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Name" class="control-label">Name</label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Email" class="control-label">Email</label>
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Identification" class="control-label">RM</label>
+                    <input asp-for="Identification" class="form-control" />
+                    <span asp-validation-for="Identification" class="text-danger"></span>
+                </div>                
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                    <div class="mt-4">
+                        <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Cancel</a>
+                    </div>
+                </div>
+            
+            </form>
+        </div>
+    </div>
+
+</div> *@
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
